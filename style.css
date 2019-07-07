@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  flex-direction: column;
+  height: 100vh;
+  margin: 0;
+}
+div {
+  color: white;
+}
+.container1 h1 {
+  font-size: 10rem;
+}
